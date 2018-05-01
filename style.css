@@ -1,0 +1,57 @@
+																		/*HEADER CONTROLS*/
+.header {
+	height: 200px;
+	background-color: aliceblue;
+}
+.left {
+	
+}
+.middle{
+	text-align: center;
+}
+.right {
+	
+}
+.logo {
+	height: 200px;
+	width: 200px;
+}
+
+.logo:hover {
+	height: 205px;
+	width: 205px;
+	cursor: pointer;
+}
+
+																	/*BODY CONTROLS*/
+.body1 {
+	background-image: url("images/818906.jpg");
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+.body2 {
+	background-image: url("images/333634.jpg");
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+.body3 {
+	background-image: url("images/534343.jpg");
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+																	/*MENU CONTROLS*/
+.menuH {
+	font-size: 65px;
+	margin-top: 50px;
+	color: white;
+}
